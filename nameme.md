@@ -1,5 +1,5 @@
 <p>
-<img src="profile-img"width="250" ait="รูป">
+<img src="profile-img.jpg" width="250" alt="รูป">
 </p>
 <h1> Name:Thitiyapa Jaiboon
 <h/1>
