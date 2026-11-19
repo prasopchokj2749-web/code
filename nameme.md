@@ -1,11 +1,11 @@
-div align="center">
+
 
 <p>
-  <img src="915184954_1173843341763655_2614864672243804837_n.jpg" width="250" alt="รูปของฉัน">
+  <img src="profile-img.jpg" width="250" alt="รูปของฉัน">
 </p>
 
 <h1>
-  <font color="#FF69B4">ชัยวัฒน์ บุญเลิศ</font>
+  <font color="#FF69B4">{นางสาว ฐิติยาภา ใจบุญ}</font>
 </h1>
 
 <h2>
@@ -13,7 +13,7 @@ div align="center">
 </h2>
 
 <h3>
-  <font color="#20B2AA">🎂 วันเดือนปีเกิด : 19 มิถุนายน 2550</font>
+  <font color="#20B2AA">🎂 วันเดือนปีเกิด : 31 ตุลาคม 2549</font>
 </h3>
 ---
 <h3>
